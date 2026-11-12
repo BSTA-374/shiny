@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "dashboard_app.html",
+    "href": "dashboard_app.html",
+    "title": "Lung cancer in Ohio, 1968–1988",
+    "section": "",
+    "text": "SIR = observed / expected over the selected years. Red: more cases than expected; blue: fewer."
+  },
+  {
+    "objectID": "dashboard_app.html#column",
+    "href": "dashboard_app.html#column",
+    "title": "Lung cancer in Ohio, 1968–1988",
+    "section": "",
+    "text": "SIR = observed / expected over the selected years. Red: more cases than expected; blue: fewer."
+  },
+  {
+    "objectID": "dashboard_app.html#column-1",
+    "href": "dashboard_app.html#column-1",
+    "title": "Lung cancer in Ohio, 1968–1988",
+    "section": "Column",
+    "text": "Column\n\nSIR by year (grey band: selected years; dashed line: as many cases as expected)\n\n\n\n\n\n\n\nCounties, selected years\n\n\n\n\n\n\nData: Moraga (2019), Ch. 7. Boundaries: US Census Bureau, via tigris."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your First Shiny App",
+    "section": "",
+    "text": "Today you build Milestone M2. Reading: Moraga Ch. 13–14.\n\nM2 — Reactive app Shiny reactivity: the user selects a region and a time period — a dropdown, a slider, or an animation — and the maps and summaries respond.\n\nYour M1 dashboard shows all 21 years and the one county you chose. M2 hands both choices to the reader. Two small apps first, to see how Shiny thinks; then the M1 dashboard, with a dropdown and a slider.\n\n\n\n\n\n\n\nM2 asks for\nWhere it is today\n\n\n\n\nShiny reactivity\n§1–§2\n\n\na region and a time period\na dropdown and a slider, §3; or a play button, §4\n\n\nthe maps and summaries respond\n§3\n\n\n\nNothing new to install: shiny came with flexdashboard."
+  },
+  {
+    "objectID": "index.html#today",
+    "href": "index.html#today",
+    "title": "Your First Shiny App",
+    "section": "",
+    "text": "Today you build Milestone M2. Reading: Moraga Ch. 13–14.\n\nM2 — Reactive app Shiny reactivity: the user selects a region and a time period — a dropdown, a slider, or an animation — and the maps and summaries respond.\n\nYour M1 dashboard shows all 21 years and the one county you chose. M2 hands both choices to the reader. Two small apps first, to see how Shiny thinks; then the M1 dashboard, with a dropdown and a slider.\n\n\n\n\n\n\n\nM2 asks for\nWhere it is today\n\n\n\n\nShiny reactivity\n§1–§2\n\n\na region and a time period\na dropdown and a slider, §3; or a play button, §4\n\n\nthe maps and summaries respond\n§3\n\n\n\nNothing new to install: shiny came with flexdashboard."
+  }
+]
